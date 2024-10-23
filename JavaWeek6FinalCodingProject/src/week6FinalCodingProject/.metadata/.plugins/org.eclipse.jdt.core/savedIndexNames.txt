@@ -1,0 +1,2 @@
+INDEX VERSION 1.134+/Users/varianharris/Desktop/BE-Promineo-Tech/Week-06-Debugging_and_Unit_Tests/JavaWeek6FinalCodingProject/src/week6FinalCodingProject/.metadata/.plugins/org.eclipse.jdt.core
+1865797976.index
